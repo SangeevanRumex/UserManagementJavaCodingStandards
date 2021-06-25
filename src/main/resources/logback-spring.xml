@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--***************************************************************************
+  * (C) Copyright 2010-2021 RUMEX (PRIVATE) LIMITED                           *
+  * All Rights Reserved.                                                      *
+  *                                                                           *
+  * These materials are unpublished, proprietary, confidential source code of *
+  * RUMEX (PRIVATE) LIMITED and constitute a TRADE SECRET                     *
+  * of RUMEX (PRIVATE) LIMITED                                                *
+  *                                                                           *
+  * RUMEX (PRIVATE) LIMITED retains all title to and intellectual             *
+  * property rights in these materials.                                       *
+  ***************************************************************************-->
+
 <configuration>
 
     <property name="LOGS" value="./logs" />
